@@ -6,7 +6,6 @@
 
 ![](./image/model.png)
 
-
 - The code is based on: Keras + Tensorflow 2.0
 - main_baseline.py is the method in our reproduced [Feng](https://arxiv.org/abs/1808.08013) paper
 - main_RLPS.py is the method implemented in our paper
