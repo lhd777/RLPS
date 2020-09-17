@@ -4,7 +4,7 @@
 
 ["Deep Reinforcement Learning for Robust Emotional Classification in Facial Expression Recognition"](https://doi.org/10.1016/j.knosys.2020.106172)
 
-![](./image/model.pdf)
+![](./image/model.png)
 
 
 - The code is based on: Keras + Tensorflow 2.0
